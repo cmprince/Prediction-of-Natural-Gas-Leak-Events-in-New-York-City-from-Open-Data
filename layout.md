@@ -1,5 +1,7 @@
 untitled.html
 cec1.html
+figures/Actual_Zip1/Actual_Zip1.png
+58ea.html
 b069.html
 figures/Capture1/Capture1.png
 ff75.html
