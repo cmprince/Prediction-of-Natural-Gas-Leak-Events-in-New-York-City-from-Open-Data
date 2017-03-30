@@ -1,5 +1,4 @@
 untitled.html
-figures/Actual_Zip/Actual_Zip.png
 cec1.html
 b069.html
 figures/Capture1/Capture1.png
