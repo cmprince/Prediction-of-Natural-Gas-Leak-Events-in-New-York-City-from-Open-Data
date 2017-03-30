@@ -6,6 +6,8 @@ b069.html
 figures/Tract_Selection2/Tract_Selection2.png
 Maps.zip
 ff75.html
+figures/Screen Shot 2017-03-30 at 6.43.02 PM/Screen Shot 2017-03-30 at 6.43.02 PM.png
+cf4.html
 figures/nn_zip_test_2015_outperform/nn_zip_test_2015_outperform.png
 5f4e.html
 14cbf.html
