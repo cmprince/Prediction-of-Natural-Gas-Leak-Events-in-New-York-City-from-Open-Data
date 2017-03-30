@@ -4,5 +4,4 @@ figures/Capture1/Capture1.png
 ff75.html
 figures/nn_zip_test_2015_outperform/nn_zip_test_2015_outperform.png
 5f4e.html
-figures/actual_v_nn_and_naive_zip_scatter/actual_v_nn_and_naive_zip_scatter.png
 14cbf.html
