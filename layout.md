@@ -3,7 +3,6 @@ cec1.html
 figures/Actual_Zip1/Actual_Zip1.png
 58ea.html
 b069.html
-figures/Tract_Selection/Tract_Selection.png
 Maps.zip
 ff75.html
 figures/nn_zip_test_2015_outperform/nn_zip_test_2015_outperform.png
