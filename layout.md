@@ -1,4 +1,3 @@
-untitled.html
 cec1.html
 figures/Actual_Zip1/Actual_Zip1.png
 58ea.html
