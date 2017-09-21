@@ -1,9 +1,21 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 800
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/Screen Shot 2017-03-30 at 6.43.17 PM/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/148228/articles/160725/master/file/figures/Screen%20Shot%202017-03-30%20at%206.43.17%20PM/Screen%20Shot%202017-03-30%20at%206.43.17%20PM.png"
+    path: figures/Screen Shot 2017-03-30 at 6.43.17 PM/Screen Shot 2017-03-30 at 6.43.17
+      PM.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
