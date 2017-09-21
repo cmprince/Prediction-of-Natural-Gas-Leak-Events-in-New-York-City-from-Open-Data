@@ -1,9 +1,20 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 500px
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/Tract_Selection2/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/148228/articles/160725/master/file/figures/Tract_Selection2/Tract_Selection2.png"
+    path: figures/Tract_Selection2/Tract_Selection2.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
