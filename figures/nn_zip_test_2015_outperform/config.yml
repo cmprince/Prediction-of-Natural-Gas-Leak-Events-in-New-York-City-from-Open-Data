@@ -1,9 +1,20 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 800
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/nn_zip_test_2015_outperform/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/148228/articles/160725/master/file/figures/nn_zip_test_2015_outperform/nn_zip_test_2015_outperform.png"
+    path: figures/nn_zip_test_2015_outperform/nn_zip_test_2015_outperform.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
